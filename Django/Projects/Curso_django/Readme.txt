@@ -37,7 +37,10 @@ para começar um projeto temos que ir para pasta e dar o comando inicial
   admin/
   The current path, tests, didn't match any of these.
 
-  4- A primeira coisa que temos que fazer é corrigir TODOS os caminhos de URL das paginas criadas
+###   Sistemas WEB com Django - Aula 08 - Criando Urls
+
+                     ###Vamos importar arquivos URLs
+  4-0 A primeira coisa que temos que fazer é corrigir TODOS os caminhos de URL das paginas criadas
   vamos fazer isto agora:
 
   4-1 Mas primeiro temos que inicializar o serivor XAMPP e temos que starta os 2 serviços principais deles
@@ -83,7 +86,77 @@ urlpatterns = [
     name='index' # eu dou um nome ao meu arquivo, neste caso INDEX
 
 
+5-0    ## Sistemas WEB com Django - Aula 09 - Redirecionando com Urls
+       ## https://youtu.be/0c7LP2p5UoM
+     Como configuramos para o arquivo VIEWS receber um INDEX dentro dele, agora
+     temos que  ir no arquivo VIEWS e configura-lo, abra o VIEWS.PY
 
+       # 1º a biblioteca primaria e depois a secundaria..
+from django.http import HttpResponse
+
+        # criaremos um FUNÇÂO chamada index(request) q tem que fazer
+        uma REQUISIÇÃO.
+
+def index(request):
+    return HttpResponse('<h1> Pagina Inicial!</h1>')
+
+    # a Função HttpResponse: Tem como objetivo execultar um cod. HTML
+    dentro dele passamos o cod. que foi: '<h1> Pagina Inicial!</h1>
+    # def :O DEF cria funções no PYTHON
+    # def index: é a função criada com o nome INDEX
+    Obs: Poderia ser qualquer nome de função, ex. def home, ou def login.
+    Toda vez que chamarmos o INDEX, no arquivo VIEWS  estaremos no relacionando
+    ao arquivo do URLS_INT que criamos.
+
+5-1 Iremos no arquivo URLs principal e podemos copiar o arquivo da URL_INT,e faremos
+    uma pequena mudança, visto que não precisamos por os CARACTERES, pois já estamos
+    na RAIZ.
+
+from django.contrib import admin
+from django.conf.urls import include, url
+urlpatterns = [
+    url(r'^ admin/', admin.site.urls),
+]
+    ## from django.contrib import admin:
+    o que fizemos: nos acessamos a biblioteca de conf. de URLs, e falamos
+
+    ## from django.conf.urls import include
+
+
+    ## urlpatterns: extrutura de chamada.
+    ## url(r'^ admin/', admin.site.urls) : importamos a mesma extrutura de chamada do
+    arquivo INDEX_INT e retiramos o "$" visto que NÃO precisamos ir para o diretorio RAIZ
+    pois já estamos nele.
+    ## '^ admin/' : Como já estamos no RAIZ, temos que por o nome ADMIN
+    ## admin.site.urls: Aqui ele vai para arquivo ADMIN.PY. Ainda n tem nada
+    mas vai ser adcionado.
+    ## site.urls : é o metado que usaremos dentro do ADMIN.PY
+    veremos isto nas aulas depois.
+    OBS.: Desta forma temos uma referencia para este caminho
+    e podemos ou Não por o atributo NOME.
+
+
+5-2 Ainda no URLS.PY Para que possa reconhecer o URLS_INT temos que por a 2ª linha no nosso
+    aquivo VIEWS
+
+from django.conf.urls import include, url
+
+    ##from django : será chamado CONF.URLS que é a Arquivo acima
+     do FROM.
+    ##import: Aparti do CONF.URLS damos um IMPORT
+    ##include, url :  um INCLUDE URL que está no arquivo URLS_INT.PY
+    Então ficou assim: Nos acessamos a biblioteca CONF.URLS ,e falamos que desta
+    biblioteca de URLS, iremos importar a URLS do arquivo URLS_INT que poderia se outros
+    caso houvesse tb. é a unica , mas poderia ter  outra
+
+    OBS: Toda URL que for incerida abaixo da primeira do arquivo URLS_INT será automaticamente
+    carregada no arquivo padrão.
+
+from django.contrib import admin
+from django.conf.urls import include, url
+urlpatterns = [
+    url(r'^ admin/', admin.site.urls),
+]
 
 
 

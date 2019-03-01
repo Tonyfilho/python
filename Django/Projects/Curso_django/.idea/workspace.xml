@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94a9f4e8-76fd-4380-b63f-ad8535cc29a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sistema/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PycharmProjects/pythonbasico/aula05_estrutura_de_laço_FOR_IN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PycharmProjects/pythonbasico/aula05_estrutura_de_laço_FOR_e_RANGE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PycharmProjects/pythonbasico/aula05_estrutura_de_laço_com_WHILE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../PycharmProjects/pythonbasico/aula05_estrutura_de_laço_for_fazendo_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../PycharmProjects/pythonbasico/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PycharmProjects/pythonbasico/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso_django/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sistema/urls_int.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/sistema/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Readme.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="533">
-              <caret line="82" column="66" selection-start-line="82" selection-start-column="66" selection-end-line="82" selection-end-column="66" />
+              <caret line="150" column="4" selection-start-line="150" selection-start-column="4" selection-end-line="150" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -29,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Curso_django/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="18" selection-start-line="18" selection-end-line="21" />
+            <state relative-caret-position="440">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#636#668#0" expanded="true" />
               </folding>
@@ -39,10 +38,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sistema/urls.py">
+        <entry file="file://$PROJECT_DIR$/sistema/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" selection-start-line="4" selection-end-line="7" />
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/urls_int.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="7" />
               <folding>
                 <element signature="e#1#33#0" expanded="true" />
               </folding>
@@ -67,13 +75,16 @@
       <list>
         <option value="$PROJECT_DIR$/sistema/urls_internas.py" />
         <option value="$PROJECT_DIR$/sistema/urls.py" />
+        <option value="$PROJECT_DIR$/sistema/urls_int.py" />
+        <option value="$PROJECT_DIR$/sistema/views.py" />
+        <option value="$PROJECT_DIR$/Curso_django/urls.py" />
         <option value="$PROJECT_DIR$/Readme.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="width" value="711" />
+    <option name="x" value="-14" />
+    <option name="width" value="710" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -90,6 +101,11 @@
           <expand>
             <path>
               <item name="Curso_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Curso_django" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Curso_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Curso_django" type="462c0819:PsiDirectoryNode" />
               <item name="Curso_django" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -142,10 +158,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="711" height="735" extended-state="0" />
+    <frame x="-14" y="0" width="710" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.49034175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2872024" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -156,7 +172,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27242523" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2707641" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -165,20 +181,30 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sistema/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Curso_django/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="18" selection-start-line="18" selection-end-line="21" />
+        <state relative-caret-position="440">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#636#668#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sistema/urls.py">
+    <entry file="file://$PROJECT_DIR$/sistema/urls_int.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="7" />
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="7" />
           <folding>
             <element signature="e#1#33#0" expanded="true" />
           </folding>
@@ -188,7 +214,7 @@
     <entry file="file://$PROJECT_DIR$/Readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="533">
-          <caret line="82" column="66" selection-start-line="82" selection-start-column="66" selection-end-line="82" selection-end-column="66" />
+          <caret line="150" column="4" selection-start-line="150" selection-start-column="4" selection-end-line="150" selection-end-column="4" />
         </state>
       </provider>
     </entry>

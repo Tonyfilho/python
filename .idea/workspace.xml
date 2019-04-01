@@ -2,32 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0267f2c-0f71-4dca-973c-c0085a478b24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/git.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Aula-06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Aula-06B_uso_de_mascaras_no_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/Exercicio_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/Exercicio_aula_4C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/Exercicios_aula_4a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/Exercicios_aula_4b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-05_aula07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-06_aula07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-07_aula07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-08_aula07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-09_aula07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-10_aula07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-11_aula07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-12_aula07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-13_aula07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio_003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio_004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/aula-04_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/aula-04_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/aula-07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/aula-07_operadores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-16_aula_8a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-17_aula_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-18_aula_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-19_aula_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_em_video/aula-08_ex_importacao_completa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_em_video/aula-08_ex_importacao_selecionada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_em_video/aula-08_importaçao_biblioteca_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_em_video/aula-08_importação_modulos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_em_video/aula-08_importação_não_builtin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,31 +19,82 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-19_aula_8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-20_aula_8.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="255e6486-a4ef-449f-b801-d7a692edc253" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="66" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-12_aula07.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-13_aula07.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/Exercicios_Python/aula-08_modulos.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/aula-08_modulos.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/aula-08_ex_importacao_completa.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/aula-08_ex_importacao_selecionada.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/aula-08_importação_modulos.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/aula-08_importaçao_biblioteca_random.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/aula-08_importação_não_builtin.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio_aula_8a.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-16_aula_8a.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-17_aula_8.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-18_aula_8.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-19_aula_8.py" />
+        <option value="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-20_aula_8.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="198" />
     <option name="y" value="27" />
-    <option name="width" value="358" />
+    <option name="width" value="504" />
     <option name="height" value="553" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/curso_em_video" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -72,6 +107,122 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.aula-08_importação_não_builtin">
+    <configuration name="aula-08_ex_importacao_completa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso_em_video" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso_em_video/aula-08_ex_importacao_completa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula-08_ex_importacao_selecionada" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso_em_video" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso_em_video/aula-08_ex_importacao_selecionada.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula-08_importaçao_biblioteca_random" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso_em_video" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso_em_video/aula-08_importaçao_biblioteca_random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula-08_importação_não_builtin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso_em_video" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso_em_video/aula-08_importação_não_builtin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio-13_aula07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso_em_video/Exercicios_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-13_aula07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aula-08_importação_não_builtin" />
+        <item itemvalue="Python.aula-08_importaçao_biblioteca_random" />
+        <item itemvalue="Python.aula-08_ex_importacao_selecionada" />
+        <item itemvalue="Python.aula-08_ex_importacao_completa" />
+        <item itemvalue="Python.desafio-13_aula07" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -87,25 +238,111 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="800" height="575" extended-state="7" />
+    <frame x="198" y="27" width="504" height="553" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24967825" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24967825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32779098" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993565" weight="0.3047859" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.328" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993565" weight="0.38539043" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006435" side_tool="true" weight="0.38539043" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32541567" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-13_aula07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="54" lean-forward="true" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-12_aula07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso_em_video/aula-08_ex_importacao_completa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso_em_video/aula-08_ex_importacao_selecionada.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso_em_video/aula-08_importaçao_biblioteca_random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso_em_video/aula-08_importação_não_builtin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso_em_video/aula-08_importação_modulos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-16_aula_8a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-17_aula_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-18_aula_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-19_aula_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso_em_video/Exercicios_Python/desafio-20_aula_8.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>

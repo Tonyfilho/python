@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa5c02b3-039e-47e0-94a3-4de053e4841b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios_Python/desafio-22_aula_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_divisão.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio-23_aula_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio-24_aula_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio-25_aula_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio-26_aula_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios_Python/desafio-22_aula_9_upper_lower_case.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula-09_analizando_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_analise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula-09_analizando_strings_com-IN.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_com-IN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula-_analizando_string_transformação.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_transformação.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_Python/desafio-22_aula_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_analise.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_analise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula-09_manipulando_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula-09_manipulando_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-23_aula_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Python/desafio-23_aula_9_Und_des_cent_milhar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-24_aula_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Python/desafio-24_aula_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-25_aula_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Python/desafio-25_aula_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-26_aula_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Python/desafio-26_aula_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-27_aula_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Python/desafio-27_aula_9.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,26 +23,48 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercicios_Python/desafio-22_aula_9.py">
+        <entry file="file://$PROJECT_DIR$/aula-09_manipulando_strings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/desafio-26_aula_9.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            <state relative-caret-position="157">
+              <caret line="24" column="82" lean-forward="true" selection-start-line="24" selection-start-column="82" selection-end-line="24" selection-end-column="82" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/desafio-27_aula_9.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Exercicios_Python/desafio-26_aula_9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_com-IN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_analise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_divisão.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -60,28 +82,30 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/aula-09_manipulando_strings.py" />
         <option value="$PROJECT_DIR$/aula-09_analizando_strings.py" />
         <option value="$PROJECT_DIR$/aula-09_analizando_strings_com-IN.py" />
         <option value="$PROJECT_DIR$/aula-_analizando_string_transformação.py" />
         <option value="$PROJECT_DIR$/Exercicios_Python/desafio22_aula_9.py" />
         <option value="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_com-IN.py" />
         <option value="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_divisão.py" />
-        <option value="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_analise.py" />
         <option value="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_transformação.py" />
-        <option value="$PROJECT_DIR$/Exercicios_Python/desafio-22_aula_9.py" />
         <option value="$PROJECT_DIR$/desafio-23_aula_9.py" />
         <option value="$PROJECT_DIR$/desafio-24_aula_9.py" />
         <option value="$PROJECT_DIR$/desafio-25_aula_9.py" />
         <option value="$PROJECT_DIR$/desafio-26_aula_9.py" />
         <option value="$PROJECT_DIR$/desafio-27_aula_9.py" />
+        <option value="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_analise.py" />
+        <option value="$PROJECT_DIR$/Exercicios_Python/desafio-22_aula_9.py" />
+        <option value="$PROJECT_DIR$/Exercicios_Python/desafio-23_aula_9.py" />
+        <option value="$PROJECT_DIR$/aula-09_manipulando_strings.py" />
+        <option value="$PROJECT_DIR$/Exercicios_Python/desafio-24_aula_9.py" />
+        <option value="$PROJECT_DIR$/Exercicios_Python/desafio-25_aula_9.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="534" />
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="27" />
-    <option name="width" value="746" />
+    <option name="width" value="726" />
     <option name="height" value="732" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -91,26 +115,18 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="curso_em_video" type="b2602c69:ProjectViewProjectNode" />
-              <item name="curso_em_video" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercicios_Python" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,8 +140,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.desafio-22_aula_9">
-    <configuration name="aula-09_analizando_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.desafio-25_aula_9">
+    <configuration name="aula-09_manipulando_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso_em_video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,70 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_analise.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="aula-09_analizando_strings_com-IN" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="curso_em_video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_com-IN.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="aula-09_manipulando_cadeias_texto_divisão" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="curso_em_video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_divisão.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="aula-_analizando_string_transformação" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="curso_em_video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_transformação.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula-09_manipulando_strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +174,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios_Python/desafio-22_aula_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios_Python/desafio-22_aula_9_upper_lower_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio-23_aula_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso_em_video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios_Python/desafio-23_aula_9_Und_des_cent_milhar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio-24_aula_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso_em_video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios_Python/desafio-24_aula_9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio-25_aula_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso_em_video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios_Python/desafio-25_aula_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio-25_aula_9" />
+        <item itemvalue="Python.desafio-24_aula_9" />
+        <item itemvalue="Python.aula-09_manipulando_strings" />
+        <item itemvalue="Python.desafio-23_aula_9" />
         <item itemvalue="Python.desafio-22_aula_9" />
-        <item itemvalue="Python.aula-09_analizando_strings" />
-        <item itemvalue="Python.aula-09_manipulando_cadeias_texto_divisão" />
-        <item itemvalue="Python.aula-09_analizando_strings_com-IN" />
-        <item itemvalue="Python.aula-_analizando_string_transformação" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +270,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1280" height="775" extended-state="6" />
+    <frame x="0" y="25" width="1280" height="743" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24980111" />
@@ -262,7 +278,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32767403" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -276,79 +292,94 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aula-09_manipulando_strings.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aula-09_manipulando_strings.py">
+    <entry file="file://$PROJECT_DIR$/Exercicios_Python/desafio-27_aula_9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="13" column="65" lean-forward="true" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+        <state relative-caret-position="68">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_transformação.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios_Python/desafio-22_aula_9_upper_lower_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios_Python/desafio-23_aula_9_Und_des_cent_milhar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_divisão.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios_Python/desafio-24_aula_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_analise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_com-IN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_divisão.py">
+    <entry file="file://$PROJECT_DIR$/Exercicios_Python/desafio-25_aula_9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="91" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
+        <state relative-caret-position="238">
+          <caret line="14" column="124" selection-start-line="14" selection-start-column="124" selection-end-line="14" selection-end-column="124" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_analise.py">
+    <entry file="file://$PROJECT_DIR$/aula-09_manipulando_strings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="157">
+          <caret line="24" column="82" lean-forward="true" selection-start-line="24" selection-start-column="82" selection-end-line="24" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_transformação.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio-23_aula_9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio-24_aula_9.py">
+    <entry file="file://$PROJECT_DIR$/Exercicios_Python/desafio-26_aula_9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="110" selection-start-column="110" selection-end-column="110" />
+          <caret selection-end-line="1" selection-end-column="30" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios_Python/desafio-22_aula_9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio-25_aula_9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio-26_aula_9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio-27_aula_9.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

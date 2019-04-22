@@ -12,5 +12,6 @@ frase = str(input('Digite Uma Frase: ')) .upper().strip()
 frase2 = frase.split()
 
 print('A letra "A" aparece quantas vezes {} na Frase '.format(frase.count('A'[0:])))
-print('A 1º letra "A" a apreceu na Posição {} da Frase'.format(frase.find('A'[0])))
-print('A Ultima letra "A" apareceu na Posição {} da Frase'.format(frase.find('A'[])
+print('A 1º letra "A" a apreceu na Posição {} da Frase'.format(frase.find('A'[0])+1))
+print('A Ultima letra "A" apareceu na Posição {} da Frase'.format(frase.rfind('A')+1)) # colocamos um RFIND para ele
+#buscar no Ultimo nome, da mesma forma poderia por o LFIND

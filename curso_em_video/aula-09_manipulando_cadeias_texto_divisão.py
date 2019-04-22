@@ -23,7 +23,8 @@ print(frase[10]) # mostrou a letra i, que está na  posição 10
 #i
 print(frase2[2]) #ele vai mostrar o item 2 da LISTA frase2
 #Video
-print(frase2[2][4]) # ele vai mostrar o item 2 da lista frase2 e pegar o item 4 da resposta.
+print(frase2[0][4]) # ele vai mostrar o item 2 da lista frase2 e pegar o item 4 da resposta.
 '''estamos dizendo quando colcamos cada um dentro de COCHETE[] , PEGA O ITEM 2 da variável '''
 #Video
 #o
+print(frase2[ ::])

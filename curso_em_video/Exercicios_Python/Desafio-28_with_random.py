@@ -6,8 +6,11 @@ O programa deverá escrever na tela se o usuário venceu ou perdeu.'''
 import random
 
 numero = int(input('Digite um Nº de 0 a 5,e tente adivinhar qual o que o computador escolheu: '))
+print('-*-' * 30)
 n_escolhido = random.randint(0, 5)
 if numero == n_escolhido:
     print('Você acertou o numero cagão: {}'.format(numero))
+    print('-=-' * 30)
 else:
     print('Tente outra vez: o numero escolhido foi {} '.format(n_escolhido))
+    print('-=-' * 30)

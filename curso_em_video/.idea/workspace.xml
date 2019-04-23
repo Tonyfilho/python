@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa5c02b3-039e-47e0-94a3-4de053e4841b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios_Python/Desafio-28_with_random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas_correcao_IF_velocidade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_Python/Desafio-30.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/Aula_10_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/Aula_10_Strings_SLICING.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/Aula_10_Strings_acesso_a_carateres_individuais.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/Aula_11_METADOS_em_STRINGS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/Aula_11_Strings_Concatenado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/Aula_11_Strings_Repeticao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/Aula_11_Strings_imutabilidade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boson/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula-10_Estruturas_Simples_Compostas_IF_ELSE.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula-10_Estruturas_Simples_Compostas_IF_ELSE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula-10_exercicio_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula-10_exercicio_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula-10_exercicios_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula-10_exercicios_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula-10_exercicios_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula-10_exercicios_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafio-28.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Python/Desafio-28_with_random_correcao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Python/desafio-26_aula_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Python/desafio-26_aula_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Python/desafio-27_aula_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Python/desafio-27_aula_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_divisão.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula-09_manipulando_cadeias_texto_divisão.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_Python/Desafio-30.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Python/Desafio-30_numero_pares_e_impares.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,51 +21,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aula-10_exercicios_02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="35" lean-forward="true" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="88" selection-start-line="13" selection-start-column="88" selection-end-line="13" selection-end-column="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas_correcao_IF_velocidade.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="171">
-                <caret line="20" selection-start-line="20" selection-end-line="20" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-30.py">
+        <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-30_numero_pares_e_impares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -122,14 +79,16 @@
         <option value="$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas_correcao_IF_velocidade.py" />
         <option value="$PROJECT_DIR$/../README.md" />
         <option value="$PROJECT_DIR$/Exercicios_Python/Desafio_30.py" />
+        <option value="$PROJECT_DIR$/Exercicios_Python/Desafio-31.py" />
+        <option value="$PROJECT_DIR$/Exercicios_Python/Desafio-30.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="521" />
+    <option name="x" value="582" />
     <option name="y" value="27" />
-    <option name="width" value="706" />
-    <option name="height" value="732" />
+    <option name="width" value="657" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -139,23 +98,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="curso_em_video" type="b2602c69:ProjectViewProjectNode" />
-              <item name="curso_em_video" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="curso_em_video" type="b2602c69:ProjectViewProjectNode" />
-              <item name="curso_em_video" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicios_Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,28 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Desafio-29_Programa_de_multas_correcao_IF_velocidade">
-    <configuration name="Aula-10_exercicio_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="curso_em_video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula-10_exercicio_03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Desafio-30_numero_pares_e_impares">
     <configuration name="Desafio-28" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso_em_video" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,13 +210,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Desafio-30_numero_pares_e_impares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso_em_video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios_Python/Desafio-30_numero_pares_e_impares.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Desafio-30_numero_pares_e_impares" />
         <item itemvalue="Python.Desafio-29_Programa_de_multas_correcao_IF_velocidade" />
         <item itemvalue="Python.Desafio-29" />
         <item itemvalue="Python.Desafio-28_with_random_correcao" />
         <item itemvalue="Python.Desafio-28" />
-        <item itemvalue="Python.Aula-10_exercicio_03" />
       </list>
     </recent_temporary>
   </component>
@@ -311,21 +255,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="521" y="27" width="706" height="732" extended-state="0" />
+    <frame x="582" y="27" width="657" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2489019" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2489019" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3393502" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3393502" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.733564" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.732852" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -476,13 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="88" selection-start-line="13" selection-start-column="88" selection-end-line="13" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas_correcao_IF_velocidade.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -500,10 +437,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-30.py">
+    <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-31.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="88" selection-start-line="13" selection-start-column="88" selection-end-line="13" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-30_numero_pares_e_impares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

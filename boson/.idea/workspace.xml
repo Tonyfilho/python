@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a58e412-a8ab-4591-86a7-0baea62f7f46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula_09_Modulo_Rondom-funcao-randon-choice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_09_Modulo_Rondom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/boson.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/boson.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_10_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_10_Strings_SLICING.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_10_Strings_acesso_a_carateres_individuais.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_11_METADOS_em_STRINGS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_11_Strings_Concatenado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_11_Strings_Repeticao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_11_Strings_imutabilidade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso_em_video/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_em_video/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -18,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Aula_09_Modulo_Rondom-funcao-randon-choice.py">
+        <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -47,10 +51,20 @@
         <option value="$PROJECT_DIR$/Aula_09_Modulo_Rondom.py" />
         <option value="$PROJECT_DIR$/Aula_09_Modulo_Rondom-funcao-randon-choise.py" />
         <option value="$PROJECT_DIR$/Aula_09_Modulo_Rondom-funcao-randon-choice.py" />
+        <option value="$PROJECT_DIR$/Aula_10_Strings.py" />
+        <option value="$PROJECT_DIR$/Aula_10_Strings_acesso_a_carateres_individuais.py" />
+        <option value="$PROJECT_DIR$/Aula_10_Strings_SLICING.py" />
+        <option value="$PROJECT_DIR$/Aula_11_Strings_tipo_de_dados.py" />
+        <option value="$PROJECT_DIR$/Aula_11_Strings_Concatenado.py" />
+        <option value="$PROJECT_DIR$/Aula_11_Strings_Repeticao.py" />
+        <option value="$PROJECT_DIR$/Aula_11_Strings_imutabilidade.py" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/Aula_11_METADOS_em_STRINGS.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="582" />
     <option name="y" value="27" />
     <option name="width" value="657" />
     <option name="height" value="735" />
@@ -62,24 +76,12 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="boson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boson" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="EditorConfig" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../curso_em_video" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -101,8 +103,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Aula_09_Modulo_Rondom-funcao-randon-choise">
-    <configuration name="Aula_08 Funções_matematicas2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Aula_11_METADOS_em_STRINGS">
+    <configuration name="Aula_10_Strings_SLICING" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="boson" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_08 Funções_matematicas2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_10_Strings_SLICING.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula_09_Modulo_Rondom-funcao-randon-choise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Aula_10_Strings_acesso_a_carateres_individuais" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="boson" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_09_Modulo_Rondom-funcao-randon-choice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_10_Strings_acesso_a_carateres_individuais.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula_09_Modulo_Rondom" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Aula_11_METADOS_em_STRINGS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="boson" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,7 +158,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_09_Modulo_Rondom.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_11_METADOS_em_STRINGS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula_11_Strings_Concatenado" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="boson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_11_Strings_Concatenado.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula_11_Strings_Repeticao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="boson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_11_Strings_Repeticao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,9 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Aula_09_Modulo_Rondom-funcao-randon-choise" />
-        <item itemvalue="Python.Aula_09_Modulo_Rondom" />
-        <item itemvalue="Python.Aula_08 Funções_matematicas2" />
+        <item itemvalue="Python.Aula_11_METADOS_em_STRINGS" />
+        <item itemvalue="Python.Aula_11_Strings_Repeticao" />
+        <item itemvalue="Python.Aula_11_Strings_Concatenado" />
+        <item itemvalue="Python.Aula_10_Strings_SLICING" />
+        <item itemvalue="Python.Aula_10_Strings_acesso_a_carateres_individuais" />
       </list>
     </recent_temporary>
   </component>
@@ -187,15 +233,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="657" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1280" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.44793153" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22513922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32854578" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32854578" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33955857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -231,17 +276,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_09_Modulo_Rondom.py">
+    <entry file="file://$PROJECT_DIR$/Aula_09_Modulo_Rondom-funcao-randon-choice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="30" />
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_09_Modulo_Rondom-funcao-randon-choice.py">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.editorconfig" />
+    <entry file="file://$PROJECT_DIR$/Aula_10_Strings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="238">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_09_Modulo_Rondom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_10_Strings_acesso_a_carateres_individuais.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_10_Strings_SLICING.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_11_Strings_Concatenado.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="64" lean-forward="true" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_11_Strings_Repeticao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_11_Strings_imutabilidade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_11_METADOS_em_STRINGS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="94" selection-start-line="25" selection-start-column="94" selection-end-line="25" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

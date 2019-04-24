@@ -8,8 +8,10 @@ Para saber se um número é par ou ímpar, basta dividir ele por 2.
 Se for par, o resto é sempre 0, não sobra nada.
 Já se for ímpar, vai sempre ter resto 1.'''
 
-
+from time import sleep
 numero = int(input('Digite uma NUmero: '))
+print('PROCESSANDO')
+sleep(2)
 if 0 == numero % 2:
     print('Seu Numero {} é Par.'.format(numero))
 else:

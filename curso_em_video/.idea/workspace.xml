@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa5c02b3-039e-47e0-94a3-4de053e4841b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../boson/Aula_10_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boson/Aula_10_Strings_SLICING.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boson/Aula_10_Strings_acesso_a_carateres_individuais.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boson/Aula_11_METADOS_em_STRINGS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boson/Aula_11_Strings_Concatenado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boson/Aula_11_Strings_Repeticao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boson/Aula_11_Strings_imutabilidade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boson/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/Aula_12_Funcao_Print_Metado_Format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/Aula_12_funcao_Print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/Aula_12_funcao_print_formatacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio_31_calculo_de Distancia_correcao_exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio_31_calculo_de Distancia_correcao_exercicio_So_com_IF_SIMPLES.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio_32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios_Python/Desafio_31_calculo_de Distancia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../boson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boson/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boson/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../boson/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Python/Desafio-30.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Python/Desafio-30_numero_pares_e_impares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_Python/Desafio-30_numero_pares_e_impares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Python/Desafio-30_numero_pares_e_impares.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,12 +23,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="438">
+                <caret line="32" selection-start-line="32" selection-end-line="32" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-30_numero_pares_e_impares.py">
+        <entry file="file://$PROJECT_DIR$/Desafio_32.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="136">
+              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -77,17 +91,24 @@
         <option value="$PROJECT_DIR$/Exercicios_Python/Desafio-29.py" />
         <option value="$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas_correcao.py" />
         <option value="$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas_correcao_IF_velocidade.py" />
-        <option value="$PROJECT_DIR$/../README.md" />
         <option value="$PROJECT_DIR$/Exercicios_Python/Desafio_30.py" />
         <option value="$PROJECT_DIR$/Exercicios_Python/Desafio-31.py" />
         <option value="$PROJECT_DIR$/Exercicios_Python/Desafio-30.py" />
+        <option value="$PROJECT_DIR$/Exercicios_Python/Desafio-30_numero_pares_e_impares.py" />
+        <option value="$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas.py" />
+        <option value="$PROJECT_DIR$/Exercicios_Python/Desafio_31.py" />
+        <option value="$PROJECT_DIR$/Exercicios_Python/Desafio_31_calculo_de Distancia.py" />
+        <option value="$PROJECT_DIR$/Desafio_31_calculo_de Distancia_correcao_exercicio.py" />
+        <option value="$PROJECT_DIR$/Desafio_31_calculo_de Distancia_correcao_exercicio_So_com_IF_SIMPLES.py" />
+        <option value="$PROJECT_DIR$/../README.md" />
+        <option value="$PROJECT_DIR$/Desafio_32.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="582" />
     <option name="y" value="27" />
-    <option name="width" value="657" />
+    <option name="width" value="647" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -97,15 +118,12 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../README.md" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -125,49 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Desafio-30_numero_pares_e_impares">
-    <configuration name="Desafio-28" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="curso_em_video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios_Python/Desafio-28_with_random.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Desafio-28_with_random_correcao" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="curso_em_video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios_Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios_Python/Desafio-28_with_random_correcao.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Desafio_31_calculo_de Distancia_correcao_exercicio_So_com_IF_SIMPLES">
     <configuration name="Desafio-29" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso_em_video" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,27 +157,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Desafio-29_Programa_de_multas_correcao_IF_velocidade" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="curso_em_video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios_Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas_correcao_IF_velocidade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,13 +186,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Desafio_31" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso_em_video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios_Python/Desafio_31_calculo_de Distancia.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio_31_calculo_de Distancia_correcao_exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso_em_video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio_31_calculo_de Distancia_correcao_exercicio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio_31_calculo_de Distancia_correcao_exercicio_So_com_IF_SIMPLES" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso_em_video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio_31_calculo_de Distancia_correcao_exercicio_So_com_IF_SIMPLES.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Desafio-30_numero_pares_e_impares" />
-        <item itemvalue="Python.Desafio-29_Programa_de_multas_correcao_IF_velocidade" />
+        <item itemvalue="Python.Desafio_31_calculo_de Distancia_correcao_exercicio_So_com_IF_SIMPLES" />
+        <item itemvalue="Python.Desafio_31_calculo_de Distancia_correcao_exercicio" />
+        <item itemvalue="Python.Desafio_31" />
         <item itemvalue="Python.Desafio-29" />
-        <item itemvalue="Python.Desafio-28_with_random_correcao" />
-        <item itemvalue="Python.Desafio-28" />
+        <item itemvalue="Python.Desafio-30_numero_pares_e_impares" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +273,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="582" y="27" width="657" height="735" extended-state="0" />
+    <frame x="582" y="27" width="647" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2489019" />
@@ -263,13 +281,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3393502" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3344652" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.732852" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.7317487" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -427,16 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="20" selection-start-line="20" selection-end-line="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-31.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -447,14 +455,52 @@
     <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-29_Programa_de_multas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="88" selection-start-line="13" selection-start-column="88" selection-end-line="13" selection-end-column="88" />
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio-30_numero_pares_e_impares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios_Python/Desafio_31_calculo_de Distancia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio_31_calculo_de Distancia_correcao_exercicio_So_com_IF_SIMPLES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio_31_calculo_de Distancia_correcao_exercicio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="438">
+            <caret line="32" selection-start-line="32" selection-end-line="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio_32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
         </state>
       </provider>
     </entry>

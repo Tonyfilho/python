@@ -9,11 +9,12 @@ print('\033[35m'+'PROCESSANDO.....Tem BOBO me OLHANDOOOOO.....')
 sleep(3)
 menor = n1
 maior = n1
+#Verificando o MENOR
 if n2 < n1 and n2 < n3:
     menor = n2
 if n3 < n1 and n3 < n1:
     menor = n3
-
+#verificando o MAIOR
 if n2 > n1 and n2 > n3:
     maior = n2
 if n3 > n1 and n3 > n2:

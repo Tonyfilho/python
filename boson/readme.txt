@@ -2,7 +2,9 @@
 
 11 -  Python - Strings 02 METADOS EM STRINGS
 
-12-   Python - Função print()
+VIDEO 12-   Python - Função print()
+
+VIDEO 13 Aula 16 Listas , Metados pop, Reverse; mapeamentos etc
 
 
 

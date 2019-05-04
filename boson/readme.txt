@@ -4,7 +4,11 @@
 
 VIDEO 12-   Python - Função print()
 
-VIDEO 13 Aula 16 Listas , Metados pop, Reverse; mapeamentos etc
+VIDEO 13 Aula 16 / 17 Listas , Metados pop, Reverse; mapeamentos etc
+
+Aula 18 Operador IN e NOT IN combinados com o IF
+
+Aula 19 DICIONÁRIOS em Ptyhon
 
 
 

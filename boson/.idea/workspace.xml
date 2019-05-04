@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a58e412-a8ab-4591-86a7-0baea62f7f46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula_17_Lista_Pop_Sort_Reverse_Mapeamentos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_17_lista_atribuições_parte2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../curso_em_video/Aula_11_Cores_no_Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../curso_em_video/Aula_11_Inicio_mundo_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_18 _Operador_IN_e_NOT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_18B_Pesquisa_com_IN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_19_Dicionarios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula_13_14_15_If_ELSE_Aninhamento_de Condicionais.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula_13_14_15_If_ELSE_Aninhamento_de Condicionais.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula_16_Seguencias_Listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula_16_Seguencias_Listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula_17_lista_atribuições_parte2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula_17_lista_atribuições_parte2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso_em_video/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_em_video/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso_em_video/Aula_11_Cores_no_Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_em_video/Aula_11_Cores_no_Python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio_35_IF_ELSE_Calculo_triangulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio_35_IF_ELSE_Calculo_triangulo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/../teste.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,24 +25,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aula_17_lista_atribuições_parte2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="170">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../curso_em_video/aula-07_operadores.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Aula_19_Dicionarios.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -78,14 +72,17 @@
         <option value="$PROJECT_DIR$/Aula_12_funcao_Print.py" />
         <option value="$PROJECT_DIR$/Aula_12_funcao_print_formatacao.py" />
         <option value="$PROJECT_DIR$/Aula_12_Funcao_Print_Metado_Format.py" />
-        <option value="$PROJECT_DIR$/readme.txt" />
         <option value="$PROJECT_DIR$/Aula_16_Lista_Pop_Sort_Reverse_Mapeamentos.py" />
         <option value="$PROJECT_DIR$/Aula_17_Lista_Pop_Sort_Reverse_Mapeamentos.py" />
         <option value="$PROJECT_DIR$/Aula_17_lista_atribuições_parte2.py" />
+        <option value="$PROJECT_DIR$/Aula_18 _Operador_IN_e_NOT.py" />
+        <option value="$PROJECT_DIR$/Aula_18B_Pesquisa_com_IN.py" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/Aula_19_Dicionarios.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="582" />
     <option name="y" value="27" />
     <option name="width" value="657" />
@@ -125,70 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Aula_17_lista_atribuições_parte2">
-    <configuration name="Aula_12_Funcao_Print_Metado_Format" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="boson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_12_Funcao_Print_Metado_Format.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Aula_12_funcao_Print" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="boson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_12_funcao_Print.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Aula_12_funcao_print_formatacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="boson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_12_funcao_print_formatacao.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Aula_19_Dicionarios">
     <configuration name="Aula_17_Lista_Pop_Sort_Reverse_Mapeamentos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="boson" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,13 +165,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Aula_18 _Operador_IN_e_NOT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="boson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_18 _Operador_IN_e_NOT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula_18B_Pesquisa_com_IN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="boson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_18B_Pesquisa_com_IN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula_19_Dicionarios" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="boson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_19_Dicionarios.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula_19_Dicionarios" />
+        <item itemvalue="Python.Aula_18B_Pesquisa_com_IN" />
+        <item itemvalue="Python.Aula_18 _Operador_IN_e_NOT" />
         <item itemvalue="Python.Aula_17_lista_atribuições_parte2" />
         <item itemvalue="Python.Aula_17_Lista_Pop_Sort_Reverse_Mapeamentos" />
-        <item itemvalue="Python.Aula_12_Funcao_Print_Metado_Format" />
-        <item itemvalue="Python.Aula_12_funcao_print_formatacao" />
-        <item itemvalue="Python.Aula_12_funcao_Print" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +252,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1280" height="743" extended-state="6" />
+    <frame x="0" y="25" width="1280" height="743" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.22513922" />
@@ -269,7 +266,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.34829444" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.34804752" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -396,13 +393,6 @@
         <state relative-caret-position="-612" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Aula_17_Lista_Pop_Sort_Reverse_Mapeamentos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -410,15 +400,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_17_lista_atribuições_parte2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/desafio-07_aula07.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/desafio-08_aula07.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso_em_video/aula-07.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../curso_em_video/aula-07_operadores.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso_em_video/aula-08_ex_importacao_completa.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/desafio-06_aula07.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_17_lista_atribuições_parte2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_18 _Operador_IN_e_NOT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_18B_Pesquisa_com_IN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_19_Dicionarios.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

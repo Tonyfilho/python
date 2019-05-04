@@ -26,3 +26,13 @@ print(lista3)
 
 lista4 = [i ** (1/2) for  i in lista3]  # Passamos por RAIZ QUADRADA
 print(lista4)
+
+print(len(lista4)) # DESCOBRIMOS  o tamanho da LISTA
+
+'''TEMOS TB A OPERAÇÃO MAP,  QUE  É UM MAPEAMENTO que faz a mesma coisa que a INCREMENTO OU COMPREENÇÃO COM  o for
+mas EM FUNÇÕES DO PYTHON '''
+'''O MAP aplica uma função F a CADA ITEM da lista, tipo o for in,MAS SOMENTE COM FUNÇÕES, tipo raiz quadrada ou po
+tenciação etc  '''
+from math import sqrt
+print(map(sqrt(),lista_de_numeros))  # EM CADA ITEM DA VARIÁVEL LISTA aplicaremos o MAP com FUNÇÃO RAIZ QUADRADA
+

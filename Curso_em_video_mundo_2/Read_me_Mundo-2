@@ -1,0 +1,10 @@
+Começamos o Mundo 2 são 40 videos, sendo 35 de exercícios
+
+
+AULA 12, IF, ELIF E ELSE, E ANINHAMENTOS
+
+Exercício 36: Escreva um programa para aprovar a compra de uma casa
+. O programa vai perguntar o VALOR do Emprestimo, o Salário do comprador e
+a quantidade de Anos que ele vai pagar.
+O valor do Emprestimo Não pode passar 30% do Salário, caso aconteça
+o Emprestimo é NEGADO.

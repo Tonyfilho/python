@@ -15,7 +15,7 @@ print('''Segue as opções de CONVERSÃO
 \n\033[1;32m[ 1 ] O para que o Nº:{0} Inteiro, seja converdido em Octal\033[m
 \n\033[1;34m[ 2 ] O para que o Nº:{0} Inteiro, seja converdido em Binário\033[m'''.format(numero_inteiro))
 
-                                        # Aqui começa a Opção de Escolha
+                                        # Aqui começa a Opção de Escolha, com uso de condições ANINHADAS
 print('\033[1;36m *-*' * 15 + '\033[m')
 print('\033[1;37mESCOLHA A OPÇÃO DE CONVERSÃO\033[m')
 escolha = int(input())
@@ -27,11 +27,12 @@ print('\033[1;36m *-*' * 15 + '\033[m')
                                         # Aqui começa as nossas Extruturas de Decisões
 
 if lista[numero_hexa] == escolha:
-    print('Seu Numero Hexadecimal é: {}'.format(numero_hexa))
+    print('Seu Numero Hexadecimal é: {}'.format(numero_hexa[2:]))#  COLOCAMOS [2:] PARA FATIAR A RESPOSTA esconder o 2s 1º NUmeros que são codigos do  PYTHON
 elif lista[numero_octa] == escolha:
-    print('Seu Numero Octal é: {}'.format(numero_octa))
+    print('Seu Numero Octal é: {}'.format(numero_octa[2:]))#  COLOCAMOS [2:] PARA FATIAR A RESPOSTA esconder o 2s 1º NUmeros que são codigos do  PYTHON
 elif lista[numero_bina] == escolha:
-    print('Seu Numero Octal é: {}'.format(numero_bina))
+    print('Seu Numero Octal é: {}'.format(numero_bina[2:]))
+#  O [2:]FATIA A STRING, ELIMINADO OS 2º NUMEROS DE CONTROLE DO PYTHON
 else:
     print('OPÇÃO ERRADA TENTE NOVAMENTE')
 

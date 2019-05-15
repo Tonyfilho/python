@@ -10,6 +10,8 @@ Aula 18 Operador IN e NOT IN combinados com o IF
 
 Aula 19 DICIONÁRIOS em Ptyhon
 
+Aula 20 ANINHAMENTO  em DICIONÁRIOS
+
 
 
 

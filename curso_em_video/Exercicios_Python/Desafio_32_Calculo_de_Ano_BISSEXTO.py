@@ -1,7 +1,7 @@
 '''Exercício Python 032: Faça um programa que leia um ano qualquer e mostre se ele é bissexto,
 se digitar 0 ele busca  o ano atual e fala se é BISSEXTO '''
 
-import time, datetime
+import time,  datetime
 
 
 ano = int(input('Digite um Ano: '))

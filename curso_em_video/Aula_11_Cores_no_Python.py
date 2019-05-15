@@ -42,14 +42,19 @@ cores = {'limpa': '\033[m',
          'pretoBranco': '\033[7;30m'}# Criamos uma LISTA de cores
 print('\033[0;31m' + var_teste + '\033[m')
 print('\033[0;36m' + '*-*' * 10)  # Este  é um SEPARADOR COLORIDO
+
 print('\033[1;31;43m' + var_teste + '\033[m')  # Esta é  forma usando o NEGRITO
 print('\033[0;36m' + '*-*' * 10)
+
 print('\033[4;30;45m' + var_teste + '\033[m') # Esta é a forma SUBLINHADO
 print('\033[0;36m' + '*-*' * 10)
+
 print('\033[7;30m' + var_teste + '\033[m') # Esta é a forma termos  o fundo BRANCO e a letra PRETA, usando o NEGATIVE
 print('\033[0;36m' + '*-*' * 10)
+
 print('Vamos imprimir na cor \033[1;31;44m{0}\033[m , e na cor \033[1;34;41m{1}\033[m'.format(b, a))
 print('\033[0;36m' + '*-*' * 10)
+
 print('Vamos imprimir colocando as CORES junto com FORMAT, {}{}{}'.format('\033[4;36m', ola, '\033[m'))
 print('\033[0;36m' + '*-*' * 10)
 print('Vamos imprimir assim{}{}{}'.format(cores['pretoBranco'], ola, cores['limpa']))

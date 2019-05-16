@@ -10,7 +10,11 @@ Aula 18 Operador IN e NOT IN combinados com o IF
 
 Aula 19 DICIONÁRIOS em Ptyhon
 
-Aula 20 ANINHAMENTO  em DICIONÁRIOS
+Aula 20 e 21  ANINHAMENTO  em DICIONÁRIOS
+
+Aula 22 TUPLAS
+
+Aula 23 WHILE
 
 
 

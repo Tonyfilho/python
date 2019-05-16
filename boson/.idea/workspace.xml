@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a58e412-a8ab-4591-86a7-0baea62f7f46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Aula_22_TUPLAS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_23B_WHILE_COM_VAR_CONTROLE_+_IF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_23C_WHILE_IF_BREAK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_23_WHILE.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA_CORRECAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA_CORRECAO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_39_programa_alistamento_militar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_39_programa_alistamento_militar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_39_programa_alistamento_militar_CORRECAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_39_programa_alistamento_militar_CORRECAO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_40_IF_ELIF_Media_de_escola.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_40_IF_ELIF_Media_de_escola.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_42_IF_ELIF_ELSE_TIPO_DE_TRIANGULO.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_42_IF_ELIF_ELSE_TIPO_DE_TRIANGULO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicios_41_IF_ELIF_ELSE_PROGRAMA_DE_CLASSIFICAÇÃO_DE_IDADE.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicios_41_IF_ELIF_ELSE_PROGRAMA_DE_CLASSIFICAÇÃO_DE_IDADE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Read_me_Mundo-2" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Read_me_Mundo-2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula_20_ANINHAMENTO_de_DICIONARIOS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula_20_ANINHAMENTO_de_DICIONARIOS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../curso_em_video/Aula_11_Cores_no_Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_em_video/Aula_11_Cores_no_Python.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio_32_Calculo_de_Ano_BISSEXTO.py" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio_32_Calculo_de_Ano_BISSEXTO.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,26 +21,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Aula_20_ANINHAMENTO_de_DICIONARIOS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+            <state relative-caret-position="272">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aula_19_Dicionarios.py">
+        <entry file="file://$PROJECT_DIR$/Aula_22_TUPLAS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="92" selection-start-line="25" selection-start-column="92" selection-end-line="25" selection-end-column="92" />
+            <state relative-caret-position="269">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula_23_WHILE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="38" column="32" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="38" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Aula_23C_WHILE_IF_BREAK.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -92,8 +92,13 @@
         <option value="$PROJECT_DIR$/Aula_18 _Operador_IN_e_NOT.py" />
         <option value="$PROJECT_DIR$/Aula_18B_Pesquisa_com_IN.py" />
         <option value="$PROJECT_DIR$/Aula_19_Dicionarios.py" />
-        <option value="$PROJECT_DIR$/readme.txt" />
         <option value="$PROJECT_DIR$/Aula_20_ANINHAMENTO_de_DICIONARIOS.py" />
+        <option value="$PROJECT_DIR$/Aula_22_TUPLAS.py" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/Aula_23_WHILE_COM_VARIÁVEL_DE_CONTROLE.py" />
+        <option value="$PROJECT_DIR$/Aula_23_WHILE_COM_VAR_CONTROLE_+_IF.py" />
+        <option value="$PROJECT_DIR$/Aula_23_WHILE.py" />
+        <option value="$PROJECT_DIR$/Aula_23C_WHILE_IF_BREAK.py" />
       </list>
     </option>
   </component>
@@ -114,7 +119,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="EditorConfig" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Curso_em_video_mundo_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -136,91 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Aula_20_ANINHAMENTO_de_DICIONARIOS">
-    <configuration name="Aula_17_lista_atribuições_parte2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="boson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_17_lista_atribuições_parte2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Aula_18 _Operador_IN_e_NOT" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="boson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_18 _Operador_IN_e_NOT.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Aula_18B_Pesquisa_com_IN" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="boson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_18B_Pesquisa_com_IN.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Aula_19_Dicionarios" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="boson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_19_Dicionarios.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Aula_23C_WHILE_IF_BREAK">
     <configuration name="Aula_20_ANINHAMENTO_de_DICIONARIOS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="boson" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,13 +163,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Aula_22_TUPLAS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="boson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_22_TUPLAS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula_23C_WHILE_IF_BREAK" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="boson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_23C_WHILE_IF_BREAK.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula_23_WHILE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="boson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_23_WHILE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula_23_WHILE_COM_VARIÁVEL_DE_CONTROLE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="boson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_23B_WHILE_COM_VAR_CONTROLE_+_IF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula_23C_WHILE_IF_BREAK" />
+        <item itemvalue="Python.Aula_23_WHILE" />
+        <item itemvalue="Python.Aula_23_WHILE_COM_VARIÁVEL_DE_CONTROLE" />
+        <item itemvalue="Python.Aula_22_TUPLAS" />
         <item itemvalue="Python.Aula_20_ANINHAMENTO_de_DICIONARIOS" />
-        <item itemvalue="Python.Aula_19_Dicionarios" />
-        <item itemvalue="Python.Aula_18B_Pesquisa_com_IN" />
-        <item itemvalue="Python.Aula_18 _Operador_IN_e_NOT" />
-        <item itemvalue="Python.Aula_17_lista_atribuições_parte2" />
       </list>
     </recent_temporary>
   </component>
@@ -267,19 +272,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1280" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.22513922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32854578" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33955857" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33955857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.34634975" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.34517765" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -459,17 +465,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.txt">
+    <entry file="file://$PROJECT_DIR$/Aula_20_ANINHAMENTO_de_DICIONARIOS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="199">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_20_ANINHAMENTO_de_DICIONARIOS.py">
+    <entry file="file://$PROJECT_DIR$/Aula_22_TUPLAS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        <state relative-caret-position="269">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_23B_WHILE_COM_VAR_CONTROLE_+_IF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_23_WHILE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="38" column="32" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="38" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_23C_WHILE_IF_BREAK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>

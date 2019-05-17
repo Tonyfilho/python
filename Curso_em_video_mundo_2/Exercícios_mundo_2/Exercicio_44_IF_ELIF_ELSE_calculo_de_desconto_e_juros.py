@@ -3,30 +3,52 @@ preço normal e condição de pagamento: - à vista dinheiro/cheque: 10% de desc
 em até 2x no cartão: preço formal - 3x ou mais no cartão: 20% de juros '''
 
                           # calculo de taxa de juros
-
+from time import  sleep
+pagamento = [1, 2, 3, 4]
+r_taxa_juros = float(2.00) # Ao mês
+a_vista = 1
+a_vista_card = 2
+card = 3
+parcelamento = 4
+opcao = 5  # controle para while
 
 print('\033[1;35m'+'programa de calculo de desconto e  pagamento.'.upper() + '\033[m')
-print('''\033[1;34mdigite a opção de pagamento do cliente:
-[ 1 ] A Vista com 10% de Desconto
-[ 2 ] A vista no Cartão de Crédito
-[ 3 ] Pagamento no Cartão em 2 x com Preço da Etiqueta
-[ 4 ] Pagamento no Cartão Parcelado acima de 3X com Juros de 2% am.\033[m''')
-opcao = int(input('Digite a opcão de pagamento'))
-pagamento = {'a_vista': 1, ' a_vista_card': 2, 'card2x': 3, 'juros': 4}
-r_taxa_juros = float(2.00) # Ao mês
+
+                     # 1 WHILE PARA A ESCOLHA DO MENU
+while (opcao >=5 or opcao == 0 ):
+    print('''\033[1;34mdigite a opção de pagamento do cliente:
+    [ 1 ] A Vista com 10% de Desconto
+    [ 2 ] A vista no Cartão de Crédito
+    [ 3 ] Pagamento no Cartão em 2 x com Preço da Etiqueta
+    [ 4 ] Pagamento no Cartão Parcelado acima de 3X com Juros de 2% am.\033[m''')
+    opcao += 1
+    opcao = int(input('\033[1;35m'+'Digite a opcão de pagamento: \033[m'.upper()).isdigit())
+    if opcao >= 5:
+        print('\033[1;36m'+'Opcão errada, escolha somente os Numeros do menu\033[m'.upper())
+    elif opcao == str(''):
+        print('\033[1;36m' + 'Opcão errada, escolha somente os Numeros do menu\033[m'.upper())
+
+print('\033[1;36m' + '*.' * 15 + '\033[m')
+print('Estamos processando seu pedido'.upper())
+sleep(1)
+#                          ESCOLHA DA FORMA DE PAGAMENTO
 
 
 
-if pagamento['a_vista'] or pagamento[' a_vista_card'] or pagamento ['card2x'] or pagamento ['juros']:
+
+
+
+
+
+
+
+'''
     print('Estamos processando seu pedido'.upper())
     p_valor_mercadoria = input("Valor presente: ".upper()).strip()
     n_prestacao = input("Quantidade de parcelas: ".upper()).strip()
     t_quantidade_de_prestacao = n_prestacao
 
-else:
-    print('Opcão errada, escolha somente N')
-
-
+'''
 
 
 

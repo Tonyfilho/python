@@ -16,6 +16,8 @@ Aula 22 TUPLAS
 
 Aula 23 WHILE
 
+Aula 24 FOR IN
+
 
 
 

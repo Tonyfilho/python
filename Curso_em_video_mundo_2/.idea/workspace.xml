@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_IF_ELIF_ELSE_calculo_de_desconto_e_juros.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-41">
-              <caret line="46" column="66" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="66" />
+            <state relative-caret-position="124">
+              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -241,7 +241,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1280" height="743" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24967825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -254,7 +253,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293718" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" weight="0.3786078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" visible="true" weight="0.3786078" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50119334" side_tool="true" weight="0.32088286" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4988067" weight="0.3275563" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -458,8 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_IF_ELIF_ELSE_calculo_de_desconto_e_juros.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret line="46" column="66" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="66" />
+        <state relative-caret-position="124">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
         </state>
       </provider>
     </entry>

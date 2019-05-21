@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e604959-214b-4ec1-a58f-780eadf8dcd1" name="Default Changelist" comment="" />
+    <list default="true" id="5e604959-214b-4ec1-a58f-780eadf8dcd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42_Correção.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_43_CORRECAO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_CORRECAO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_IF_ELIF_ELSE_calculo_de_desconto_e_juros.py">
+        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_CORRECAO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+            <state relative-caret-position="272">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -51,7 +57,6 @@
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicios_37_aula_12_conversor_DECIMAL_OCTA_HEXA.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA_CORRECAO.py" />
-        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py" />
         <option value="$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio_32_Calculo_de_Ano_BISSEXTO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_39_programa_alistamento_militar.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_39_programa_alistamento_militar_CORRECAO.py" />
@@ -62,10 +67,15 @@
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_43_IF_ELIF_ELSE_Tabela_de_massa_corporea.py" />
         <option value="$PROJECT_DIR$/Read_me_Mundo-2" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_IF_ELIF_ELSE_calculo_de_desconto_e_juros.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42_Correção.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_43_CORRECAO.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_CORRECAO.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="526" />
     <option name="y" value="27" />
     <option name="width" value="694" />
     <option name="height" value="731" />
@@ -77,7 +87,25 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Curso_em_video_mundo_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Curso_em_video_mundo_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Curso_em_video_mundo_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Curso_em_video_mundo_2" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercícios_mundo_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -103,29 +131,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercicio_44_IF_ELIF_ELSE_calculo_de_desconto_e_juros">
-    <configuration name="Aula_23B_WHILE_COM_VAR_CONTROLE_+_IF" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso_em_video_mundo_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../boson" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../boson/Aula_23B_WHILE_COM_VAR_CONTROLE_+_IF.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercicio_42B_IF_ELIF_ELSE_TIPO_DE_TRIANGULO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Exercicio_44_CORRECAO">
+    <configuration name="Exercicio_38_Comparacao_maior_menor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42B_IF_ELIF_ELSE_TIPO_DE_TRIANGULO.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_42_IF_ELIF_ELSE_TIPO_DE_TRIANGULO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio_39_programa_alistamento_militar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42_IF_ELIF_ELSE_TIPO_DE_TRIANGULO.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_39_programa_alistamento_militar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_43_IF_ELIF_ELSE_Tabela_de_massa_corporea" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio_42_Correção" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,7 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_43_IF_ELIF_ELSE_Tabela_de_massa_corporea.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42_Correção.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_44_IF_ELIF_ELSE_calculo_de_desconto_e_juros" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio_43_CORRECAO" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +207,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_IF_ELIF_ELSE_calculo_de_desconto_e_juros.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_43_CORRECAO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio_44_CORRECAO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso_em_video_mundo_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_CORRECAO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercicio_44_IF_ELIF_ELSE_calculo_de_desconto_e_juros" />
-        <item itemvalue="Python.Aula_23B_WHILE_COM_VAR_CONTROLE_+_IF" />
-        <item itemvalue="Python.Exercicio_43_IF_ELIF_ELSE_Tabela_de_massa_corporea" />
-        <item itemvalue="Python.Exercicio_42_IF_ELIF_ELSE_TIPO_DE_TRIANGULO" />
-        <item itemvalue="Python.Exercicio_42B_IF_ELIF_ELSE_TIPO_DE_TRIANGULO" />
+        <item itemvalue="Python.Exercicio_44_CORRECAO" />
+        <item itemvalue="Python.Exercicio_43_CORRECAO" />
+        <item itemvalue="Python.Exercicio_42_Correção" />
+        <item itemvalue="Python.Exercicio_39_programa_alistamento_militar" />
+        <item itemvalue="Python.Exercicio_38_Comparacao_maior_menor" />
       </list>
     </recent_temporary>
   </component>
@@ -233,14 +261,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1280" height="743" extended-state="6" />
+    <frame x="526" y="27" width="694" height="731" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24967825" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24888226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47028863" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45027125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -301,13 +329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA_CORRECAO.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -315,24 +336,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio_32_Calculo_de_Ano_BISSEXTO.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_39_programa_alistamento_militar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -380,20 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42_IF_ELIF_ELSE_TIPO_DE_TRIANGULO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_43_IF_ELIF_ELSE_Tabela_de_massa_corporea.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -450,8 +443,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_IF_ELIF_ELSE_calculo_de_desconto_e_juros.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        <state relative-caret-position="544">
+          <caret line="71" column="66" lean-forward="true" selection-start-line="71" selection-start-column="66" selection-end-line="71" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_39_programa_alistamento_militar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42_IF_ELIF_ELSE_TIPO_DE_TRIANGULO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_43_IF_ELIF_ELSE_Tabela_de_massa_corporea.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="4" lean-forward="true" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42_Correção.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_43_CORRECAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_CORRECAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>

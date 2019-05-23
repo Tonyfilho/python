@@ -57,6 +57,5 @@ elif cpu == 2:  #COMPUTADOR JOGOU TESOURA
         print('JOGO EMPATADO!!!')
 
     else:
-        print('JOGADA INVÁLIDA!!!')
-
+        print('Jogada inválida')
 

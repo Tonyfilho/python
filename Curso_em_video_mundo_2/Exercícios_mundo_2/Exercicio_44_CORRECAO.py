@@ -27,8 +27,9 @@ elif opcao == 3:
     print('Valor no Cartão será de 2 x de {:.2f} sem juros '.upper().format(pag))
 if opcao == 4:
         parcelas = int(input('\n Digite a quantidade de parcelas de 03 há 10x:'.upper().strip()))
-        pag = pag / parcelas + (pag * 20 / 100)
-        print(' O  parcelamento é {:.2f} x de {:.2f} '.upper().format(parcelas, pag))
+        pag =  (pag * 20 / 100 / parcelas) + pag / parcelas
+        total = pag * parcelas
+        print(' O  parcelamento é {:.0f} x de {:.0f}, com total de {:.0f} '.upper().format(parcelas, pag, total))
 
 
 

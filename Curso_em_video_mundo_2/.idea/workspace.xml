@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5e604959-214b-4ec1-a58f-780eadf8dcd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42_Correção.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_43_CORRECAO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_CORRECAO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_13_laco_FOR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/Exercicio_25_CRIANDO_FUNCOES_BASICAS_INTRODUCAO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/Exercicio_25_criando_funcoes_com_ARGUMENTOS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boson/exercicio_25_funções_com_laco_FOR.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_CORRECAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_CORRECAO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Read_me_Mundo-2" beforeDir="false" afterPath="$PROJECT_DIR$/Read_me_Mundo-2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boson/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boson/Exercicio_24B_loop_FOR_FUNCAO_RANGE_com_contador.py" beforeDir="false" afterPath="$PROJECT_DIR$/../boson/Exercicio_24B_loop_FOR_FUNCAO_RANGE_com_contador.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boson/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../boson/readme.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +25,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_CORRECAO.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="332">
+              <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Aula_13_laco_FOR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="31" column="83" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
             </state>
           </provider>
         </entry>
@@ -53,7 +71,6 @@
         <option value="$PROJECT_DIR$/Exercicio_45_aula_12_jogo_JOQUEPO.py" />
         <option value="$PROJECT_DIR$/Exercicio_45_aula_12_jogo_JOKEMPO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKEMPO_CORRECAO.py" />
-        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicios_37_aula_12_conversor_DECIMAL_OCTA_HEXA.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA_CORRECAO.py" />
@@ -65,20 +82,21 @@
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42B_IF_ELIF_ELSE_TIPO_DE_TRIANGULO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42_IF_ELIF_ELSE_TIPO_DE_TRIANGULO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_43_IF_ELIF_ELSE_Tabela_de_massa_corporea.py" />
-        <option value="$PROJECT_DIR$/Read_me_Mundo-2" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_IF_ELIF_ELSE_calculo_de_desconto_e_juros.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42_Correção.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_43_CORRECAO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_CORRECAO.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO.py" />
+        <option value="$PROJECT_DIR$/Read_me_Mundo-2" />
+        <option value="$PROJECT_DIR$/Aula_13_laco_FOR.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="526" />
     <option name="y" value="27" />
-    <option name="width" value="694" />
-    <option name="height" value="731" />
+    <option name="width" value="720" />
+    <option name="height" value="703" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -87,30 +105,12 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Curso_em_video_mundo_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Curso_em_video_mundo_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Curso_em_video_mundo_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Curso_em_video_mundo_2" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercícios_mundo_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../boson/Aula_23_WHILE.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -131,8 +131,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercicio_44_CORRECAO">
-    <configuration name="Exercicio_38_Comparacao_maior_menor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Aula_13_laco_FOR">
+    <configuration name="Aula_13_laco_FOR" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,32 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercicio_39_programa_alistamento_militar" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso_em_video_mundo_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_39_programa_alistamento_militar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_13_laco_FOR.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,13 +216,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso_em_video_mundo_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula_13_laco_FOR" />
+        <item itemvalue="Python.Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO" />
         <item itemvalue="Python.Exercicio_44_CORRECAO" />
         <item itemvalue="Python.Exercicio_43_CORRECAO" />
         <item itemvalue="Python.Exercicio_42_Correção" />
-        <item itemvalue="Python.Exercicio_39_programa_alistamento_militar" />
-        <item itemvalue="Python.Exercicio_38_Comparacao_maior_menor" />
       </list>
     </recent_temporary>
   </component>
@@ -261,22 +261,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="526" y="27" width="694" height="731" extended-state="0" />
+    <frame x="0" y="27" width="720" height="703" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24888226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45027125" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36247724" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293718" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" weight="0.3786078" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" weight="0.3699115" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50119334" side_tool="true" weight="0.32088286" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4988067" weight="0.3275563" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32779098" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -319,16 +321,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="e#26#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA_CORRECAO.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -354,13 +346,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKENPO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -421,13 +406,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../boson/Aula_19_Dicionarios.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="41" selection-start-line="41" selection-end-line="43" selection-end-column="70" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../boson/Aula_23B_WHILE_COM_VAR_CONTROLE_+_IF.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -499,8 +477,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_CORRECAO.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKENPO.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+          <folding>
+            <element signature="e#26#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_13_laco_FOR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="31" column="83" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
         </state>
       </provider>
     </entry>

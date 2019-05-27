@@ -18,6 +18,12 @@ Aula 23 WHILE
 
 Aula 24 FOR IN
 
+Aula 25,  CRIANDO FUNÇÕES,
+
+Aula 26 ESCOPO DE FUNÇÕES
+
+Aula 27
+
 
 
 

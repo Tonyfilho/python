@@ -19,5 +19,5 @@ range(2, 51, 2) # VALORES DE 2 A 50 DE 2 EM 2, USANDO PARAMENTRO INICIO E O SALT
 '''Estaremos juntando a função RANGE com o laço  FOR'''
 for i in range(11):
     print(i)
-for i in range(0, 51, 2):
+for i in range(0, 51, 5):
     print(i)

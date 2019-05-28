@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a58e412-a8ab-4591-86a7-0baea62f7f46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicio_26_funcoes_escopos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio_24B_loop_FOR_FUNCAO_RANGE_com_contador.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_24B_loop_FOR_FUNCAO_RANGE_com_contador.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio_25_CRIANDO_FUNCOES_BASICAS_INTRODUCAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_25_CRIANDO_FUNCOES_BASICAS_INTRODUCAO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio_25_criando_funcoes_com_ARGUMENTOS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_25_criando_funcoes_com_ARGUMENTOS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio_25_funções_com_laco_FOR.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio_25_funções_com_laco_FOR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            <state relative-caret-position="408">
+              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -31,15 +26,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercicio_25_funções_com_laco_FOR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="369">
+              <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercicio_26_funcoes_escopos.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -92,9 +96,10 @@
         <option value="$PROJECT_DIR$/Exercicio_24B_loop_FOR_FUNCAO_RANGE_com_contador.py" />
         <option value="$PROJECT_DIR$/Exercicio_25_CRIANDO_FUNCOES_BASICAS_INTRODUCAO.py" />
         <option value="$PROJECT_DIR$/Exercicio_25_criando_funcoes_com_ARGUMENTOS.py" />
+        <option value="$PROJECT_DIR$/exercicio_26_funcoes_escopos.py" />
         <option value="$PROJECT_DIR$/readme.txt" />
         <option value="$PROJECT_DIR$/exercicio_25_funções_com_laco_FOR.py" />
-        <option value="$PROJECT_DIR$/exercicio_26_funcoes_escopos.py" />
+        <option value="$PROJECT_DIR$/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py" />
       </list>
     </option>
   </component>
@@ -110,10 +115,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -140,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercicio_25_funções_com_laco_FOR">
+  <component name="RunManager" selected="Python.Exercicio_28_FUNCOES_empacotamento_desempacotamento">
     <configuration name="Exercicio_24B_loop_FOR_FUNCAO_RANGE_com_contador" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="boson" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,27 +156,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_24B_loop_FOR_FUNCAO_RANGE_com_contador.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercicio_24_FOR_IN_LOOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="boson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_24_FOR_IN_LOOP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,6 +206,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Exercicio_28_FUNCOES_empacotamento_desempacotamento" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="boson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="exercicio_25_funções_com_laco_FOR" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="boson" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercicio_28_FUNCOES_empacotamento_desempacotamento" />
         <item itemvalue="Python.exercicio_25_funções_com_laco_FOR" />
         <item itemvalue="Python.Exercicio_25_criando_funcoes_com_ARGUMENTOS" />
         <item itemvalue="Python.Exercicio_25_CRIANDO_FUNCOES_BASICAS_INTRODUCAO" />
         <item itemvalue="Python.Exercicio_24B_loop_FOR_FUNCAO_RANGE_com_contador" />
-        <item itemvalue="Python.Exercicio_24_FOR_IN_LOOP" />
       </list>
     </recent_temporary>
   </component>
@@ -529,20 +531,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        <state relative-caret-position="408">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exercicio_25_funções_com_laco_FOR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="369">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exercicio_26_funcoes_escopos.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

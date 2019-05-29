@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a58e412-a8ab-4591-86a7-0baea62f7f46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercicio_47_aula_13_NUmeros_pares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Exercícios_mundo_2/Exercício_48_aula_13_FOR_soma_de_numeros_impares.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Read_me_Mundo-2" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso_em_video_mundo_2/Read_me_Mundo-2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercicio_25_funções_com_laco_FOR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
+            <state relative-caret-position="612">
               <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
             </state>
           </provider>
@@ -38,12 +41,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Exercicio_29_FUNCOES_RECURSIVAS.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -100,6 +99,7 @@
         <option value="$PROJECT_DIR$/readme.txt" />
         <option value="$PROJECT_DIR$/exercicio_25_funções_com_laco_FOR.py" />
         <option value="$PROJECT_DIR$/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py" />
+        <option value="$PROJECT_DIR$/Exercicio_29_FUNCOES_RECURSIVAS.py" />
       </list>
     </option>
   </component>
@@ -120,7 +120,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="EditorConfig" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Aula_19_Dicionarios.py" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -459,13 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_19_Dicionarios.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="92" selection-start-line="25" selection-start-column="92" selection-end-line="25" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Aula_20_ANINHAMENTO_de_DICIONARIOS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -538,20 +531,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercicio_25_funções_com_laco_FOR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
+        <state relative-caret-position="612">
           <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_19_Dicionarios.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="25" column="92" selection-start-line="25" selection-start-column="92" selection-end-line="25" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exercicio_26_funcoes_escopos.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Exercicio_29_FUNCOES_RECURSIVAS.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

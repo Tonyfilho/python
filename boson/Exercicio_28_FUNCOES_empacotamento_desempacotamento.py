@@ -1,6 +1,7 @@
 ''' NESTA AULA ESTUDAREMOS EMPACOTAMENTO E DESEMPACOTAMENTO, PARÂMENTROS EM FUNÇÕES'''
 
 '''Vamos fazer o o exemplo a baixo '''
+'''                               EXEMPLO DE DESEMPACOTAMENTO    '''
 def listar_itens(x, y, z, w):
     print(x, y, z, w)
 
@@ -10,6 +11,7 @@ lista = [1, 2, 3, 4, ]
 # se colocarmos o " * " FAREMOS O DESEMPACOTAMENTO DA LISTA, e com isto o ERRO some.
 listar_itens(*lista) # DESTA FORMA " * " , ELE DESEMPACOTA NOSSA  LISTA
 
+
 '''                               OUTRO EXEMPLO DE DESEMPACOTAMENTO    '''
 
 '''                            , Agora colocamos 1 numero infinito de ARGUMENTOS   '''
@@ -17,6 +19,7 @@ listar_itens(*lista) # DESTA FORMA " * " , ELE DESEMPACOTA NOSSA  LISTA
 def listar_itens_2(* args): # desta forma colocamos 1 NUMERO infinito de argumentos
     print(args)
 lista_2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
 listar_itens_2(*lista_2)
 
 '''                               OUTRO EXEMPLO agora de EMPACOTAMENTO    '''
@@ -34,6 +37,20 @@ empacotar_itens(a, b, c)
 
 resultado = empacotar_itens(a, b, c)
 print(resultado)
+
+'''                               OUTRO EXEMPLO agora de EMPACOTAMENTO com dicionario   '''
+
+def somador_de_listas(* args):
+    soma = 0
+    for i in range(0, len(args)):
+        soma += args[i]
+    return soma
+
+
+print(somador_de_listas(1, 2, 3, 4, 5, 6, 7, 8, 9, 10))
+print(somador_de_listas(500, 800, 1))
+
+
 
 
 

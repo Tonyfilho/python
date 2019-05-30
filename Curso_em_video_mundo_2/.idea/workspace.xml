@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e604959-214b-4ec1-a58f-780eadf8dcd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_46_for_e_CRIANDO_FUNCOES.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_46_for_range_contador_com_timer_+_CRIANADO_FUNCOES.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercício_48_aula_13_numero_impar_na_funcao_+_for.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_47_aula_13_NUmeros_pares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_47_aula_13_NUmeros_pares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios_mundo_2/Exercício_48_aula_13_FOR_soma_de_numeros_impares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercício_48_aula_13_FOR_soma_de_numeros_impares.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Read_me_Mundo-2" beforeDir="false" afterPath="$PROJECT_DIR$/Read_me_Mundo-2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../boson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boson/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -22,17 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../boson/exercicio_25_funções_com_laco_FOR.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+            <state relative-caret-position="952">
+              <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -47,24 +39,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_46_for_range_contador_com_timer_+_CRIANADO_FUNCOES.py">
+        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercício_48_aula_13_numero_impar_na_funcao_+_for.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+            <state relative-caret-position="391">
+              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_46_for_e_CRIANDO_FUNCOES.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercício_48_aula_13_FOR_soma_de_numeros_impares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../boson/Exercicio_25_criando_funcoes_com_ARGUMENTOS.py">
+        <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio-30_numero_pares_e_impares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -115,14 +111,19 @@
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_44_CORRECAO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO.py" />
         <option value="$PROJECT_DIR$/Aula_13_laco_FOR.py" />
-        <option value="$PROJECT_DIR$/Read_me_Mundo-2" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_46_laco_for_range_contador_com_timer.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_46_for_range_contador_com_timer_+_CRIANADO_FUNCOES.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_46_for_e_CRIANDO_FUNCOES.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_47_aula_13_NUmeros_pares.py" />
+        <option value="$PROJECT_DIR$/Read_me_Mundo-2" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercício_48_aula_13_numero_impar_na_funcao_+_for.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercício_48_aula_13_FOR_soma_de_numeros_impares.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="27" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="64" />
+    <option name="y" value="91" />
     <option name="width" value="800" />
     <option name="height" value="581" />
   </component>
@@ -133,12 +134,15 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../boson/Exercicio_25_criando_funcoes_com_ARGUMENTOS.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio-30_numero_pares_e_impares.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -159,8 +163,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercicio_46_laco_for_range_contador_com_timer">
-    <configuration name="Aula_13_laco_FOR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Exercício_48_aula_13_FOR_soma_de_numeros_impares">
+    <configuration name="Desafio-30_numero_pares_e_impares" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,32 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_13_laco_FOR.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercicio_25_criando_funcoes_com_ARGUMENTOS" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso_em_video_mundo_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../boson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../curso_em_video/Exercicios_Python" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../boson/Exercicio_25_criando_funcoes_com_ARGUMENTOS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio-30_numero_pares_e_impares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio_46_for_e_CRIANDO_FUNCOES" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,7 +197,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_46_for_e_CRIANDO_FUNCOES.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +227,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio_25_funções_com_laco_FOR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio_47_aula_13_NUmeros_pares" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,11 +235,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../boson" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../boson/exercicio_25_funções_com_laco_FOR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_47_aula_13_NUmeros_pares.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercício_48_aula_13_FOR_soma_de_numeros_impares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso_em_video_mundo_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercício_48_aula_13_FOR_soma_de_numeros_impares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercício_48_aula_13_FOR_soma_de_numeros_impares" />
+        <item itemvalue="Python.Desafio-30_numero_pares_e_impares" />
+        <item itemvalue="Python.Exercicio_47_aula_13_NUmeros_pares" />
+        <item itemvalue="Python.Exercicio_46_for_e_CRIANDO_FUNCOES" />
         <item itemvalue="Python.Exercicio_46_laco_for_range_contador_com_timer" />
-        <item itemvalue="Python.Exercicio_25_criando_funcoes_com_ARGUMENTOS" />
-        <item itemvalue="Python.exercicio_25_funções_com_laco_FOR" />
-        <item itemvalue="Python.Aula_13_laco_FOR" />
-        <item itemvalue="Python.Exercicio_45_aula_12_jogo_JOKENPO_CORRECAO" />
       </list>
     </recent_temporary>
   </component>
@@ -289,24 +293,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1280" height="743" extended-state="6" />
+    <frame x="0" y="25" width="1280" height="743" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24888226" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24821003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2580645" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33106962" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293718" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" weight="0.3697632" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" weight="0.36842105" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50119334" side_tool="true" weight="0.32088286" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4988067" weight="0.3275563" />
-      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32779098" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32767403" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -532,10 +536,24 @@
         <state relative-caret-position="-425" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_47_aula_13_NUmeros_pares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boson/Exercicio_25_criando_funcoes_com_ARGUMENTOS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_46_for_e_CRIANDO_FUNCOES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -546,6 +564,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_46_for_range_contador_com_timer_+_CRIANADO_FUNCOES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boson/Exercicio_29_FUNCOES_RECURSIVAS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-291" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boson/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boson/Aula_07 Exrpessões_e_Operadores_Aritmetico.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="49" column="41" lean-forward="true" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Aula_13_laco_FOR.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
@@ -553,22 +602,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../boson/Exercicio_25_criando_funcoes_com_ARGUMENTOS.py">
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercício_48_aula_13_numero_impar_na_funcao_+_for.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        <state relative-caret-position="391">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_46_for_range_contador_com_timer_+_CRIANADO_FUNCOES.py">
+    <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio-30_numero_pares_e_impares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_46_for_e_CRIANDO_FUNCOES.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercício_48_aula_13_FOR_soma_de_numeros_impares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

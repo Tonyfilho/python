@@ -52,3 +52,6 @@ indo de 10 até 0, com uma pausa de 1 segundo entre eles.
 
 
 
+
+Exercicio Python 048: Faça um programa que calcule a soma entre todos os números que são múltiplos de três e
+ que se encontram no intervalo de 1 até 500.'''

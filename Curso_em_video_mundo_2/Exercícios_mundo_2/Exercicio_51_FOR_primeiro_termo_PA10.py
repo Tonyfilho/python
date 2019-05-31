@@ -10,5 +10,9 @@ pa = int(input('digite o numero do PA: '.strip().upper()))
 
 for itens in range(1, pa+1 ):
     termo +=  razao
-    print(termo)
+    print('\033[1;34m' + 'O termo de {} é {}'.format(itens, termo).upper() + " -> " + '\033[m')
+print('fim'.upper())
 
+print('\n A proporção aritmetrica de : {}, com razão de: {}, tem o termo de: {}'.upper().format(pa, razao, termo
+
+                                                                                              ))

@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e604959-214b-4ec1-a58f-780eadf8dcd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_PALIDROMO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_palindromo_CORRECAO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_54_aula_13_FOR_programa_de_idade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_CORRECAO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_FOR_BUSCA_LISTA_MAX_MIN_peso_de_pessoas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Read_me_Mundo-2" beforeDir="false" afterPath="$PROJECT_DIR$/Read_me_Mundo-2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../boson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boson/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso_em_video/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_em_video/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso_em_video/aula-09_manipulando_cadeias_texto_divisão.py" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_em_video/aula-09_manipulando_cadeias_texto_divisão.py" afterDir="false" />
@@ -23,26 +25,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" column="105" selection-start-line="64" selection-start-column="105" selection-end-line="64" selection-end-column="105" />
+            <state relative-caret-position="494">
+              <caret line="69" selection-start-line="69" selection-end-line="70" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_PALIDROMO.py">
+        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_FOR_BUSCA_LISTA_MAX_MIN_peso_de_pessoas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_palindromo_CORRECAO.py">
+        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_CORRECAO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="289">
+              <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -62,10 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Read_me_Mundo-2" />
-        <option value="$PROJECT_DIR$/Aula_12_IF_e_Aninhamentos_ELIF_ELSE.py" />
-        <option value="$PROJECT_DIR$/Aula_12_IF_ELIF_ELSE_simplificado.py" />
-        <option value="$PROJECT_DIR$/Aula_12B_IF_ELIF_ELSE_simplificado.py" />
         <option value="$PROJECT_DIR$/Aula_12B_IF_ELIF_ELSE_Usando_OR.py" />
         <option value="$PROJECT_DIR$/Aula_12B_IF_ELIF_ELSE_Usando_OR_e_IN.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_36_Aula_12.py" />
@@ -107,12 +105,16 @@
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_50_aula13_laco_FOR_numeros_pares_somados.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_51_FOR_primeiro_termo_PA10.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_51_FOR_calculo_de_termo_CORRECAO.py" />
-        <option value="$PROJECT_DIR$/Read_me_Mundo-2" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_52_aula_13_FOR_numeros_primos.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_52_aula_13_FUNCAO_FOR_numeros_primos.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_52_aula_13_for_numeros_primos.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_PALIDROMO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_palindromo_CORRECAO.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_54_aula_13_FOR_programa_de_idade.py" />
+        <option value="$PROJECT_DIR$/Read_me_Mundo-2" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_FOR_peso_de_pessoas.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_FOR_BUSCA_LISTA_MAX_MIN_peso_de_pessoas.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_CORRECAO.py" />
       </list>
     </option>
   </component>
@@ -133,7 +135,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../curso_em_video/aula-09_manipulando_cadeias_texto_divisão.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_palindromo_CORRECAO.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -154,49 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercicio_53_aula_13_palindromo_CORRECAO">
-    <configuration name="Exercicio_51_FOR_calculo_de_termo_CORRECAO" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso_em_video_mundo_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_51_FOR_calculo_de_termo_CORRECAO.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercicio_52_aula_13_for_numeros_primos" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso_em_video_mundo_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_52_aula_13_for_numeros_primos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Exercicio_55_aula_13_CORRECAO">
     <configuration name="Exercicio_53_aula_13_PALIDROMO" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula-09_manipulando_cadeias_texto_divisão" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio_54_aula_13_FOR_programa_de_idade" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,11 +207,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../curso_em_video" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../curso_em_video/aula-09_manipulando_cadeias_texto_divisão.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_54_aula_13_FOR_programa_de_idade.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio_55_aula_13_CORRECAO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso_em_video_mundo_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_CORRECAO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio_55_aula_13_FOR_peso_de_pessoas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso_em_video_mundo_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_FOR_BUSCA_LISTA_MAX_MIN_peso_de_pessoas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercicio_55_aula_13_CORRECAO" />
+        <item itemvalue="Python.Exercicio_55_aula_13_FOR_peso_de_pessoas" />
+        <item itemvalue="Python.Exercicio_54_aula_13_FOR_programa_de_idade" />
         <item itemvalue="Python.Exercicio_53_aula_13_palindromo_CORRECAO" />
         <item itemvalue="Python.Exercicio_53_aula_13_PALIDROMO" />
-        <item itemvalue="Python.aula-09_manipulando_cadeias_texto_divisão" />
-        <item itemvalue="Python.Exercicio_52_aula_13_for_numeros_primos" />
-        <item itemvalue="Python.Exercicio_51_FOR_calculo_de_termo_CORRECAO" />
       </list>
     </recent_temporary>
   </component>
@@ -292,13 +294,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2527881" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25092936" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293718" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" weight="0.27504244" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" weight="0.27334467" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50119334" side_tool="true" weight="0.32088286" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4988067" weight="0.3275563" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32767403" />
@@ -308,52 +310,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_40_IF_ELIF_Media_de_escola.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicios_41_IF_ELIF_ELSE_PROGRAMA_DE_CLASSIFICAÇÃO_DE_IDADE.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../boson/Aula_13_14_15_If_ELSE_Aninhamento_de Condicionais.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-251" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_12_IF_e_Aninhamentos_ELIF_ELSE.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_12B_IF_ELIF_ELSE_Usando_OR_e_IN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42B_IF_ELIF_ELSE_TIPO_DE_TRIANGULO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio_35_IF_ELSE_Calculo_triangulo.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../curso_em_video/Aula-06B_uso_de_mascaras_no_print.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../curso_em_video/aula-09_manipulando_cadeias_texto_analise.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -400,13 +356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -523,11 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../boson/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../boson/Exercicio_29_FUNCOES_RECURSIVAS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-561" />
@@ -603,13 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="105" selection-start-line="64" selection-start-column="105" selection-end-line="64" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../curso_em_video/aula-09_manipulando_cadeias_texto_divisão.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -625,14 +562,73 @@
     <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_PALIDROMO.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/desafio-23_aula_9_Und_des_cent_milhar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/desafio-24_aula_9.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio_32_Calculo_de_Ano_BISSEXTO.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="69" selection-start-line="69" selection-end-line="70" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio_33_IF_escolha_maior_ou_menor.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boson/Exercicio_28_FUNCOES_empacotamento_desempacotamento.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../boson/Exercicio_24B_loop_FOR_FUNCAO_RANGE_com_contador.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_54_aula_13_FOR_programa_de_idade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="99" selection-start-line="17" selection-start-column="99" selection-end-line="17" selection-end-column="99" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_palindromo_CORRECAO.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_FOR_BUSCA_LISTA_MAX_MIN_peso_de_pessoas.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_CORRECAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
         </state>
       </provider>
     </entry>

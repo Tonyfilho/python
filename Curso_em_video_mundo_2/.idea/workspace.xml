@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e604959-214b-4ec1-a58f-780eadf8dcd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_54_aula_13_FOR_programa_de_idade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_CORRECAO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_FOR_BUSCA_LISTA_MAX_MIN_peso_de_pessoas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_56_aula_13_FOR_IDADE_SEXO_4_PESSOAS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Read_me_Mundo-2" beforeDir="false" afterPath="$PROJECT_DIR$/Read_me_Mundo-2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../boson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boson/.idea/workspace.xml" afterDir="false" />
@@ -26,25 +24,16 @@
         <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
-              <caret line="69" selection-start-line="69" selection-end-line="70" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_FOR_BUSCA_LISTA_MAX_MIN_peso_de_pessoas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="72" column="11" selection-start-line="72" selection-end-line="74" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_CORRECAO.py">
+        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_56_aula_13_FOR_IDADE_SEXO_4_PESSOAS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+            <state relative-caret-position="85">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -64,8 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Aula_12B_IF_ELIF_ELSE_Usando_OR.py" />
-        <option value="$PROJECT_DIR$/Aula_12B_IF_ELIF_ELSE_Usando_OR_e_IN.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_36_Aula_12.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_36_Aula12_correcao.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_36_Aula12_Empretimo_casa_CORRECAO.py" />
@@ -111,10 +98,12 @@
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_PALIDROMO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_palindromo_CORRECAO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_54_aula_13_FOR_programa_de_idade.py" />
-        <option value="$PROJECT_DIR$/Read_me_Mundo-2" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_FOR_peso_de_pessoas.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_FOR_BUSCA_LISTA_MAX_MIN_peso_de_pessoas.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_CORRECAO.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_correção2.py" />
+        <option value="$PROJECT_DIR$/Read_me_Mundo-2" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_56_aula_13_FOR_IDADE_SEXO_4_PESSOAS.py" />
       </list>
     </option>
   </component>
@@ -294,7 +283,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25092936" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23893805" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -310,12 +299,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../curso_em_video/aula-09_manipulando_cadeias_texto_analise.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../curso_em_video/aula-09_manipulando_cadeias_texto_com-IN.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../curso_em_video/aula-09_manipulando_strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -586,13 +569,6 @@
     <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio_32_Calculo_de_Ano_BISSEXTO.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="69" selection-start-line="69" selection-end-line="70" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/Desafio_33_IF_escolha_maior_ou_menor.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -618,17 +594,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_FOR_BUSCA_LISTA_MAX_MIN_peso_de_pessoas.py">
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_correção2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_CORRECAO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_FOR_BUSCA_LISTA_MAX_MIN_peso_de_pessoas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="72" column="11" selection-start-line="72" selection-end-line="74" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_56_aula_13_FOR_IDADE_SEXO_4_PESSOAS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>

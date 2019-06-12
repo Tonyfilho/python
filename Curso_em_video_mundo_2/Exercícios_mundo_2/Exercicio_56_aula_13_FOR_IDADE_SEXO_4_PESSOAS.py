@@ -3,48 +3,38 @@ No final do programa, mostre: a média de idade do grupo, qual é o nome do home
 mulheres têm menos de 20 anos.'''
 
 
-nome_1 = {} # Nome_ a Nome_4, são DICs, que irão receber informações de NOME,IDADE e SEXO
-nome_2 = {}
-nome_3 = {}
-nome_4 = {}
+
 media = 0
-media_total = media
-homem = [] # é uma LISTA que vai receber 4 dicionarios
+maior_idade = 0
+media_total = 0
+homem = '' # é uma STRING que vai receber os nomes
 quant_mulher = 0
+print('------{}-----')
 for itens in range(1, 4+1):
     nome = input('\033[1;31m'+'Digite o nome da {}ª Pessoa: '.format(itens).upper().strip()+'\033[m')
     idade = int(input('\033[1;32m'+'Digite a idade da {}ª Pessoa: '.format(itens).upper().strip()+'\033[m'))
-    sexo = input('\033[1;33m'+'Digite o sexo da {}ª pessoa M ou F: '.format(itens).upper().strip()+'\033[m')
-    if itens == 1:
-        nome_1 = {'nome': nome, 'idade': idade, 'sexo': sexo}
-        media += idade
-        if sexo == 'm':
-            homem_velho_1 = {'nome': nome, 'idade': idade}
-            homem += homem_velho_1
+    sexo = input('\033[1;33m'+'Digite o sexo da {}ª pessoa M ou F: '.format(itens).strip()+'\033[m').upper()
+    media += idade / 4
+#    print(sexo)
+    if itens == 1 and sexo == 'M':
+        maior_idade = idade
+        homem = nome
+    if sexo == 'M' and idade > maior_idade:
+        maior_idade = idade
+        homem = nome
+    if sexo == 'F' and idade < 20:
+        quant_mulher += 1
 
-    if itens == 2:
-        nome_2 = {'nome': nome, 'idade': idade, 'sexo': sexo}
-        media += idade
-        if sexo == 'm':
-            homem_velho_2 = {'nome': nome, 'idade': idade}
-            homem += homem_velho_2
 
-    if itens == 3:
-        nome_3 = {'nome': nome, 'idade': idade, 'sexo': sexo}
-        media += idade
-        if sexo == 'm':
-            homem_velho_3 = {'nome': nome, 'idade': idade}
-            homem += homem_velho_3
 
-    if itens == 4:
-        nome_4 = {'nome': nome, 'idade': idade, 'sexo': sexo}
-        media += idade
-        if sexo == 'm':
-            homem_velho_4 = {'nome': nome, 'idade': idade}
-            homem += homem_velho_4
 
-    media_total = media / itens
 
-print(homem)
-print('A Média de idade do grupo é {} anos.'.format(media_total))
+print('A média de Idade é: {} Anos '.format(media))
+print('O Nome do Homem mais velho é: {}, e tem {} Anos.'.format(homem, maior_idade))
+print('A Quantidade de Mulher(S) abaixo de 20 anos é: {}'.format(quant_mulher))
+
+
+
+
+
 

@@ -2,23 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0372dbd-04a5-4a41-806c-4a6d39a0cbe6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercicio_56B_aula13 Pratica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicio_56C_aula13_Pratica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercícios_mundo_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_53B_aula_13_PRATICA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_55B_aula13_pratica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_55C_aula_13_Pratica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../boson/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../boson/Exercicio_30B_NUMERO_ALEATÓRIO_FLUTUANTE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../boson/Exercicio_30_NUMERO_ALEATÓRIOS_INTEIROS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../boson/Exercicio_31_MODULOS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../boson/Exercicio_31_MODULO_modulacoes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio_56_aula_13_FOR_IDADE_SEXO_4_PESSOAS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_56_aula_13_FOR_IDADE_SEXO_4_PESSOAS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio_56B_aula13 Pratica.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio_56B_aula13 Pratica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio_56C_aula13_Pratica.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio_56C_aula13_Pratica.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../boson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../boson/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boson/Exercicio_30B_NUMERO_ALEATÓRIO_FLUTUANTE.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../boson/Exercicio_30B_NUMERO_ALEATÓRIO_FLUTUANTE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boson/Exercicio_31_MODULOS.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../boson/Exercicio_31_MODULOS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boson/Exercicio_31_MODULO_modulacoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../boson/Exercicio_31_MODULO_modulacoes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../boson/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../boson/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../curso_em_video/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso_em_video/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../curso_em_video/aula-09_manipulando_cadeias_texto_divisão.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../curso_em_video/aula-09_manipulando_cadeias_texto_divisão.py" afterDir="false" />
@@ -39,7 +29,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercicio_53B_aula_13_PRATICA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="238">
               <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
             </state>
           </provider>
@@ -93,7 +83,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../curso_em_video/aula-09_manipulando_cadeias_texto_divisão.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../boson" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -195,20 +185,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1280" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24980111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3599321" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3599321" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3293718" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -268,7 +257,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercicio_53B_aula_13_PRATICA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="238">
           <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
         </state>
       </provider>

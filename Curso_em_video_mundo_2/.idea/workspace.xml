@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e604959-214b-4ec1-a58f-780eadf8dcd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicio_054C_aula_13_Pratica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_56D_aula_pratica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Palindromo_pratica2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio_56B_aula13 Pratica.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_56B_aula13 Pratica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio_56C_aula13_Pratica.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_56C_aula13_Pratica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios_mundo_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_mundo_2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../boson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boson/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso_em_video/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_em_video/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso_em_video/aula-09_manipulando_cadeias_texto_divisão.py" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_em_video/aula-09_manipulando_cadeias_texto_divisão.py" afterDir="false" />
@@ -26,19 +22,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="68" lean-forward="true" selection-start-line="66" selection-end-line="68" />
+            <state relative-caret-position="1156">
+              <caret line="68" selection-start-line="66" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercicio_054C_aula_13_Pratica.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_palindromo_CORRECAO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_PALIDROMO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercicio_054C_aula_13_Pratica.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Palindromo_pratica2.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -56,7 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exercicio_45_aula_12_jogo_JOQUEPO.py" />
         <option value="$PROJECT_DIR$/Exercicio_45_aula_12_jogo_JOKEMPO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKEMPO_CORRECAO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicios_37_aula_12_conversor_DECIMAL_OCTA_HEXA.py" />
@@ -107,6 +125,7 @@
         <option value="$PROJECT_DIR$/Exercicio_56C_aula13_Pratica.py" />
         <option value="$PROJECT_DIR$/Exercicio_56D_aula_pratica.py" />
         <option value="$PROJECT_DIR$/Exercicio_054C_aula_13_Pratica.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Palindromo_pratica2.py" />
       </list>
     </option>
   </component>
@@ -127,7 +146,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_palindromo_CORRECAO.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -148,8 +167,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercicio_56D_aula_pratica">
-    <configuration name="Exercicio_55_aula_13_CORRECAO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Exercicio_054C_aula_13_Pratica">
+    <configuration name="Exercicio_054C_aula_13_Pratica" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_55_aula_13_CORRECAO.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_054C_aula_13_Pratica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercicio_054C_aula_13_Pratica" />
         <item itemvalue="Python.Exercicio_56D_aula_pratica" />
         <item itemvalue="Python.Exercicio_56C_aula13_Pratica" />
         <item itemvalue="Python.Exercicio_56B_aula13 Pratica" />
         <item itemvalue="Python.Exercicio_56_aula_13_FOR_IDADE_SEXO_4_PESSOAS" />
-        <item itemvalue="Python.Exercicio_55_aula_13_CORRECAO" />
       </list>
     </recent_temporary>
   </component>
@@ -279,6 +298,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1280" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24821003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24980111" />
@@ -291,7 +311,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293718" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" weight="0.27241963" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" weight="0.27164686" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50119334" side_tool="true" weight="0.32088286" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4988067" weight="0.3275563" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32767403" />
@@ -301,13 +321,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_38_Comparacao_maior_menor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42_IF_ELIF_ELSE_TIPO_DE_TRIANGULO.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -508,13 +521,6 @@
         <state relative-caret-position="-51" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_PALIDROMO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../curso_em_video/Exercicios_Python/desafio-23_aula_9_Und_des_cent_milhar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -550,13 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="99" selection-start-line="17" selection-start-column="99" selection-end-line="17" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_palindromo_CORRECAO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -619,17 +618,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="68" lean-forward="true" selection-start-line="66" selection-end-line="68" />
+        <state relative-caret-position="1156">
+          <caret line="68" selection-start-line="66" selection-end-line="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercicio_054C_aula_13_Pratica.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_palindromo_CORRECAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_PALIDROMO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Palindromo_pratica2.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

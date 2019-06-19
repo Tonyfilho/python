@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e604959-214b-4ec1-a58f-780eadf8dcd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Palindromo_pratica2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula13_palindromo_pratica3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_palindromo_pratica_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../boson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boson/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso_em_video/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_em_video/.idea/workspace.xml" afterDir="false" />
@@ -28,36 +29,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercicio_054C_aula_13_Pratica.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_palindromo_CORRECAO.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_PALIDROMO.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Palindromo_pratica2.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -75,8 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exercicio_45_aula_12_jogo_JOKEMPO.py" />
-        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_45_aula_12_jogo_JOKEMPO_CORRECAO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicios_37_aula_12_conversor_DECIMAL_OCTA_HEXA.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_37_aula_12_conversor_DECIMAL_OCTA_HEXA_CORRECAO.py" />
@@ -126,6 +102,8 @@
         <option value="$PROJECT_DIR$/Exercicio_56D_aula_pratica.py" />
         <option value="$PROJECT_DIR$/Exercicio_054C_aula_13_Pratica.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Palindromo_pratica2.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula13_palindromo_pratica3.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_palindromo_pratica_4.py" />
       </list>
     </option>
   </component>
@@ -167,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercicio_054C_aula_13_Pratica">
+  <component name="RunManager" selected="Python.Exercicio_53_palindromo_pratica_4">
     <configuration name="Exercicio_054C_aula_13_Pratica" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_56B_aula13 Pratica" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio_53_aula13_palindromo_pratica3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_56B_aula13 Pratica.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula13_palindromo_pratica3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_56C_aula13_Pratica" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio_53_palindromo_pratica_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,11 +196,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_mundo_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_56C_aula13_Pratica.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_palindromo_pratica_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_56_aula_13_FOR_IDADE_SEXO_4_PESSOAS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio_Palindromo_pratica2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso_em_video_mundo_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,7 +242,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_56_aula_13_FOR_IDADE_SEXO_4_PESSOAS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_Palindromo_pratica2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercicio_53_palindromo_pratica_4" />
+        <item itemvalue="Python.Exercicio_53_aula13_palindromo_pratica3" />
+        <item itemvalue="Python.Exercicio_Palindromo_pratica2" />
         <item itemvalue="Python.Exercicio_054C_aula_13_Pratica" />
         <item itemvalue="Python.Exercicio_56D_aula_pratica" />
-        <item itemvalue="Python.Exercicio_56C_aula13_Pratica" />
-        <item itemvalue="Python.Exercicio_56B_aula13 Pratica" />
-        <item itemvalue="Python.Exercicio_56_aula_13_FOR_IDADE_SEXO_4_PESSOAS" />
       </list>
     </recent_temporary>
   </component>
@@ -305,13 +283,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2665535" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2665535" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39898133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293718" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" weight="0.27164686" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" weight="0.27072757" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50119334" side_tool="true" weight="0.32088286" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4988067" weight="0.3275563" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32767403" />
@@ -321,20 +299,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42_IF_ELIF_ELSE_TIPO_DE_TRIANGULO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_43_IF_ELIF_ELSE_Tabela_de_massa_corporea.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="4" lean-forward="true" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_42_Correção.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -616,24 +580,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" selection-start-line="66" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercicio_054C_aula_13_Pratica.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_palindromo_CORRECAO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -644,8 +594,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Palindromo_pratica2.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Read_me_Mundo-2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" selection-start-line="66" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_palindromo_pratica_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula13_palindromo_pratica3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_Palindromo_pratica2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_13_palindromo_CORRECAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

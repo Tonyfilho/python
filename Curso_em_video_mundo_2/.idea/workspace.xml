@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e604959-214b-4ec1-a58f-780eadf8dcd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_49_tabuada_laço for_PRATICA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_Palindromo_pratica6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Aula14_while_pratica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../boson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boson/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso_em_video/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_em_video/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso_em_video/aula-09_manipulando_cadeias_texto_divisão.py" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_em_video/aula-09_manipulando_cadeias_texto_divisão.py" afterDir="false" />
@@ -40,19 +36,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Aula14_while_pratica.py">
+        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Aula14_Tabuada_com_while_e_for.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_49_aula13_for_tabuada.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="257">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -72,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_39_programa_alistamento_militar.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_39_programa_alistamento_militar_CORRECAO.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_40_IF_ELIF_Media_de_escola.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicios_41_IF_ELIF_ELSE_PROGRAMA_DE_CLASSIFICAÇÃO_DE_IDADE.py" />
@@ -123,6 +109,7 @@
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_53_aula_Palindromo_pratica6.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_49_tabuada_laço for_PRATICA.py" />
         <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Aula14_while_pratica.py" />
+        <option value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Aula14_Tabuada_com_while_e_for.py" />
       </list>
     </option>
   </component>
@@ -261,7 +248,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Aula14_while_pratica.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Aula14_Tabuada_com_while_e_for.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,6 +282,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1280" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24821003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24980111" />
@@ -307,7 +295,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293718" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" weight="0.26994908" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49848023" visible="true" weight="0.26994908" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50119334" side_tool="true" weight="0.32088286" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4988067" weight="0.3275563" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32767403" />
@@ -640,10 +628,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Aula14_while_pratica.py">
+    <entry file="file://$PROJECT_DIR$/Exercícios_mundo_2/Exercicio_Aula14_Tabuada_com_while_e_for.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="257">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
